@@ -1,0 +1,448 @@
+disclosure_year,ticker,asset_description,amount,representative
+2021,COLD,Americold Realty Trust Common Shares,"$1,001 - $15,000",Hon. Alan S. Lowenthal
+2021,COLD,Americold Realty Trust Common Shares,"$15,001 - $50,000",Hon. Alan S. Lowenthal
+2021,SEP,Spectra Energy Capital LLC,"$1,001 - $15,000",Hon. Mo Brooks
+2021,DXCM,DexCom Inc,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,HD,Home Depot,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,ICUI,ICU Medical Inc,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,IFNNY,Infineon Technologies,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,PHR,Phreesia Inc,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,SITE,SiteOne Landscape Supply Inc,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,VCYT,Veracyte Inc,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,AMZN,Amazon.com Inc,"$15,001 - $50,000",Hon. John Curtis
+2021,DOMO,DOMO Inc Class B,"$15,001 - $50,000",Hon. John Curtis
+2021,DIS,The Walt Disney Corp,"$1,001 - $15,000",Hon. John Curtis
+2021,GOOGL,Alphabet Inc. - Class A,"$1,001 - $15,000",None Kathy Manning
+2021,GOOGL,Alphabet Inc. - Class A,"$1,001 - $15,000",None Kathy Manning
+2021,GOOG,Alphabet Inc. - Class C Capital Stock,"$1,001 - $15,000",None Kathy Manning
+2021,AMGN,Amgen Inc.,"$1,001 - $15,000",None Kathy Manning
+2021,AMGN,Amgen Inc.,"$1,001 - $15,000",None Kathy Manning
+2021,AAPL,Apple Inc.,"$1,001 - $15,000",None Kathy Manning
+2021,CFG,"Citizens Financial Group, Inc.","$1,001 - $15,000",None Kathy Manning
+2021,INTC,Intel Corporation,"$15,001 - $50,000",None Kathy Manning
+2021,INTL,Intel Corporation,"$1,001 - $15,000",None Kathy Manning
+2021,LMT,Lockheed Martin Corporation,"$1,001 - $15,000",None Kathy Manning
+2021,MU,"Micron Technology, Inc.","$1,001 - $15,000",None Kathy Manning
+2021,PYPL,"PayPal Holdings, Inc.","$1,001 - $15,000",None Kathy Manning
+2021,QCOM,QUALCOMM Incorporated,"$1,001 - $15,000",None Kathy Manning
+2021,SBUX,Starbucks Corporation,"$1,001 - $15,000",None Kathy Manning
+2021,DIS,Walt Disney Company,"$1,001 - $15,000",None Kathy Manning
+2021,TMUS,T-Mobile USA,"$1,001 - $15,000",Hon. Susie Lee
+2021,ROP,Roper Technologies,"$1,001 - $15,000",Hon. Susie Lee
+2021,INFO,IHS Markit Ltd,"$1,001 - $15,000",Hon. Susie Lee
+2021,GO,Grocery Outlet Holding Company,"$1,001 - $15,000",Hon. Susie Lee
+2021,FISV,Fiserv Inc,"$1,001 - $15,000",Hon. Susie Lee
+2021,FISV,Fiserv Inc,"$1,001 - $15,000",Hon. Susie Lee
+2021,ECL,EcoLab Inc,"$1,001 - $15,000",Hon. Susie Lee
+2021,DELL,Dell Technologies Inc,"$1,001 - $15,000",Hon. Susie Lee
+2021,CHNG,Change Healthcare Inc,"$1,001 - $15,000",Hon. Susie Lee
+2021,CDW,CDW Corporation,"$1,001 - $15,000",Hon. Susie Lee
+2021,CACI,CACI International Class A,"$1,001 - $15,000",Hon. Susie Lee
+2021,CACI,CACI International Class A,"$1,001 - $15,000",Hon. Susie Lee
+2021,BLL,Ball Corporation,"$1,001 - $15,000",Hon. Susie Lee
+2021,ABT,Abbot Laboratories,"$15,001 - $50,000",Mr. Peter Meijer
+2021,ABBV,AbbVie Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ACHC,"Acadia Healthcare Company, Inc","$1,001 - $15,000",Mr. Peter Meijer
+2021,ATVI,Activision Blizzard Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ADDDYY,Adidas AG Sponsored ADR,"$15,001 - $50,000",Mr. Peter Meijer
+2021,ADBE,Adobe Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,AMD,Advanced Micro Devices,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ADYEY,ADYEN N.V. ADR CMN,"$50,001 - $100,000",Mr. Peter Meijer
+2021,A,Agilent Technologies Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,AAGIY,AIA Group Ltd,"$50,001 - $100,000",Mr. Peter Meijer
+2021,AL,Air Lease Corporation Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ALC,Alcon Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,ALFVY,Alfa-Laval Ab,"$15,001 - $50,000",Mr. Peter Meijer
+2021,ADS,Alliance Data Systems Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ALIZY,ALLIANZ SE ADR CMN,"$15,001 - $50,000",Mr. Peter Meijer
+2021,GOOGL,Alphabet Inc - Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,GOOG,Alphabet Inc Class C,"$15,001 - $50,000",Mr. Peter Meijer
+2021,AMZN,Amazon Inc,"$100,001 - $250,000",Mr. Peter Meijer
+2021,ABEV,Ambev SA America Depository,"$15,001 - $50,000",Mr. Peter Meijer
+2021,AMT,American Tower Corporation,"$15,001 - $50,000",Mr. Peter Meijer
+2021,AWK,American Water Works Company Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,AMGN,Amgen Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ANTM,Anthem Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,AON,Aon plc Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,AAPL,Apple Inc,"$100,001 - $250,000",Mr. Peter Meijer
+2021,T,AT&T,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ATH,Athene Holding Ltd Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ATLKY,Atlas Copco AB sponsored ADR,"$50,001 - $100,000",Mr. Peter Meijer
+2021,BLL,Ball Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,BAC,Bank of America Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,BAX,Baxter International Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,BRK.B,Berkshire Hathaway Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,BBY,"Best Buy Co., Inc","$15,001 - $50,000",Mr. Peter Meijer
+2021,BIIB,Biogen Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,BA,Boeing Company,"$15,001 - $50,000",Mr. Peter Meijer
+2021,BSX,Boston Scientific Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,AVGO,Broadcom Inc,"$50,001 - $100,000",Mr. Peter Meijer
+2021,CDNS,Cadence Design Systems,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CNI,Canadian National Railway Company,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CCL,Carnival Corporation,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CAT,Caterpillar Corporation,"$15,001 - $50,000",Mr. Peter Meijer
+2021,SCHW,Charles Schwab Corporation,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CHTR,Charter Communications Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,CHKP,Check Point Software Technologies,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CHGCY,Chugai pharmaceutical Ltf,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CI,Cigna Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,XEC,Cimarex Energy Co,"$1,001 - $15,000",Mr. Peter Meijer
+2021,CTAS,Cintas Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,CMS,CMS Energy Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,CMCSA,Comcast Corp,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CLGX,Corelogic Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,COST,Costco Wholesale Corp,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CCK,Crown Holdings Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,DHR,Danaher Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,DASTY,Dassuly Systems SA,"$15,001 - $50,000",Mr. Peter Meijer
+2021,DBSDY,Dbs Group Holdings Ltd,"$15,001 - $50,000",Mr. Peter Meijer
+2021,DXCM,DexCom Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,DEO,Diageo plc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,FANG,Diamondback Energy Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,DFS,Discover Financial Services,"$1,001 - $15,000",Mr. Peter Meijer
+2021,DG,Dollar General Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,DXC,DXC Technology Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,EMN,Eastman Chemical Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ETN,Eaton Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,EW,Edwards Lifesciences Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,EMR,Emerson Electric Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,EHC,Encompass Health Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,EPOKY,EPIROC AB ADR CMN,"$15,001 - $50,000",Mr. Peter Meijer
+2021,EQIX,Equinix Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,EXPE,Expedia Group Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,XOM,Exxon Mobil Corp,"$15,001 - $50,000",Mr. Peter Meijer
+2021,FB,Facebook Inc Class A,"$15,001 - $50,000",Mr. Peter Meijer
+2021,FANUY,Fanuc Corp ADR,"$15,001 - $50,000",Mr. Peter Meijer
+2021,FDX,FedEx Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,FITB,Fifth Third Bancorp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,BEN,Franklin Resources,"$1,001 - $15,000",Mr. Peter Meijer
+2021,FUPBY,Fuchs Petrolub SE Unsponsored American,"$1,001 - $15,000",Mr. Peter Meijer
+2021,GLPI,Gaming and Leisure Properties Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,GPN,Global Payments Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,HDB,HDFC Bank Limited,"$50,001 - $100,000",Mr. Peter Meijer
+2021,HSIC,Henry Schein Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,HRC,Hill-Rom Holdings Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,HD,Home Depot,"$1,001 - $15,000",Mr. Peter Meijer
+2021,HSBC,HSBC Holdings,"$1,001 - $15,000",Mr. Peter Meijer
+2021,HUN,Huntsman Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,IBN,ICICI Bank Limited,"$15,001 - $50,000",Mr. Peter Meijer
+2021,IDXXX,IDEXX Laboratories,"$1,001 - $15,000",Mr. Peter Meijer
+2021,IFNNY,Infineon Technologies,"$50,001 - $100,000",Mr. Peter Meijer
+2021,PODD,Insulet Corp,"$15,001 - $50,000",Mr. Peter Meijer
+2021,INTC,Intel Corp,"$15,001 - $50,000",Mr. Peter Meijer
+2021,IBM,International Business Machines Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ISRG,Intuitive Surgical Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ITUB,Itau Unibanco Banco Holding SA,"$15,001 - $50,000",Mr. Peter Meijer
+2021,JBL,Jabil inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,JNJ,Johnson & Johnson,"$15,001 - $50,000",Mr. Peter Meijer
+2021,JPM,JP Morgan Chase & Co,"$15,001 - $50,000",Mr. Peter Meijer
+2021,KKR,KKR & Co,"$1,001 - $15,000",Mr. Peter Meijer
+2021,KMTUY,Komatsu Ld,"$15,001 - $50,000",Mr. Peter Meijer
+2021,KUBTY,Kubota Corp,"$15,001 - $50,000",Mr. Peter Meijer
+2021,AIQUY,L Air Liquide Ord American,"$1,001 - $15,000",Mr. Peter Meijer
+2021,LYV,Live Nation Entertainment Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,LZAGY,Lonza Group Ag Zuerich,"$15,001 - $50,000",Mr. Peter Meijer
+2021,LRLCY,LOreal American Depository Shares,"$15,001 - $50,000",Mr. Peter Meijer
+2021,LOW,Lowes Companies,"$15,001 - $50,000",Mr. Peter Meijer
+2021,LULU,Lululemon Athletica,"$1,001 - $15,000",Mr. Peter Meijer
+2021,LYB,LyondellBasell Industries NV,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MMC,Marsh & McLennan Companies,"$15,001 - $50,000",Mr. Peter Meijer
+2021,MA,Mastercard Incorporated,"$15,001 - $50,000",Mr. Peter Meijer
+2021,MTCH,Match Group,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MCHP,Microchip Technology Incorporated,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MSFT,Microsoft Corporation,"$100,001 - $250,000",Mr. Peter Meijer
+2021,MS,Morgan Stanley,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MOS,Mosaic Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MSI,Motorola Solutions Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MSCI,MSCI Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NSRGY,Nestle SA Sponsored ADR,"$15,001 - $50,000",Mr. Peter Meijer
+2021,NTAP,NetApp Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,NFLX,Netflix Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NYT,New York Times Company,"$15,001 - $50,000",Mr. Peter Meijer
+2021,NEM,Newmont Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NEE,NextEra Energy Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,NKE,Nike Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NCLTY,NITORI HOLDINGS LTD ADR CMN,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NOC,Northrop Grumman Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NVZMY,Novozymes A/S Unsposored American Depositary Receipt,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NUE,Nucor Corporation,"$15,001 - $50,000",Mr. Peter Meijer
+2021,NVDA,NVIDA Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NVR,NVR Inx,"$1,001 - $15,000",Mr. Peter Meijer
+2021,OKTA,Okta Inc Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,OMF,OneMain Holdings,"$1,001 - $15,000",Mr. Peter Meijer
+2021,OKE,ONEOK Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ORCL,Oracle Corporation,"$50,001 - $100,000",Mr. Peter Meijer
+2021,ORLY,OReilly Automotive Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,PH,Parker-Hannifin Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,PEP,Pepsico Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,PFE,Pfizer,"$15,001 - $50,000",Mr. Peter Meijer
+2021,PSX,Phillips 66,"$1,001 - $15,000",Mr. Peter Meijer
+2021,PNGAY,Ping An Insurance,"$15,001 - $50,000",Mr. Peter Meijer
+2021,PNC,PNC Financial Services Group,"$15,001 - $50,000",Mr. Peter Meijer
+2021,PG,Procter & Gamble Company,"$15,001 - $50,000",Mr. Peter Meijer
+2021,PLD,ProLogic Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,QCOM,QUALCOMM Incorporated,"$1,001 - $15,000",Mr. Peter Meijer
+2021,RMD,ResMed Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,RIO,Rio Tinto Plc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,RHHBY,Roche Holdings AG Basel ADS,"$15,001 - $50,000",Mr. Peter Meijer
+2021,ROK,Rockwell Automation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SPGI,S&P Global Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SC,Santander Consumer USA Holdings,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SAP,SAP SE ADS,"$15,001 - $50,000",Mr. Peter Meijer
+2021,SLB,Schlumberger NV,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SBGSY,Schneider Electric SE ADR,"$15,001 - $50,000",Mr. Peter Meijer
+2021,SEE,Sealed Air Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ST,Sensata Technologies Holding plc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SGSOY,SGS SA ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SNAP,Snap Inc Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SONVY,Sonova Holding AD ADR,"$15,001 - $50,000",Mr. Peter Meijer
+2021,SBUX,Starbucks Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,STT,State Street Corporation,"$15,001 - $50,000",Mr. Peter Meijer
+2021,SIVB,SVB AG ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SYIEY,Symrise AG ADR,"$15,001 - $50,000",Mr. Peter Meijer
+2021,SYF,Synchrony Financial,"$15,001 - $50,000",Mr. Peter Meijer
+2021,SNPS,Synopsys Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SSMXY,Sysmex Corporation ADR,"$15,001 - $50,000",Mr. Peter Meijer
+2021,TSM,Taiwan Semiconductor Manufacturing Company,"$50,001 - $100,000",Mr. Peter Meijer
+2021,TGT,Target Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,TCEHY,Tencent Holdings Limited ADR,"$50,001 - $100,000",Mr. Peter Meijer
+2021,TSLA,Tesla Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,TMO,Thermo Fisher Scientific Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,TOL,Toll Brothers Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,TRU,TransUnion,"$1,001 - $15,000",Mr. Peter Meijer
+2021,TFC,Truist Financial Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,USB,US Bancorp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,UBER,Uber Technologies Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,UNICY,Unicharm Corp ADR,"$15,001 - $50,000",Mr. Peter Meijer
+2021,UL,Unilever PLC,"$15,001 - $50,000",Mr. Peter Meijer
+2021,UNP,Union Pacific Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,UPS,United Parcel Service Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,UNH,UnitedHealth Group Incorporated,"$1,001 - $15,000",Mr. Peter Meijer
+2021,UNVR,Univar Solutions Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,VRSK,Verisk Analytics Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,VTRS,Viatris Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,V,Visa Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,VMC,Vulcan Materials Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WBA,Walgreens Boots Alliance Inc,"$15,001 - $50,000",Mr. Peter Meijer
+2021,WMT,Western Union Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WLK,Westlake Chemical Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WMB,William Companies Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WYND,Wyndham Destinations Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WH,Wyndham Hotels & Resorts Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,YNDX,YANDEX NV - Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ZG,Zillow Group Inc - Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,Z,Zillow Group Inc Class C,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ZTS,Zoetis Inc Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MSFT,Microsoft Corp,"$250,001 - $500,000",Hon. Suzan K. DelBene
+2021,FNRVGX,First Trust Innovative Tech 22,"$15,001 - $50,000",Hon. Michael K. Simpson
+2021,HII,"Huntington Ingalls Industries, Inc.","$1,001 - $15,000",Hon. Dwight Evans
+2021,OKE,"ONEOK, Inc.","$15,001 - $50,000",Hon. Dwight Evans
+2021,NGLS,Targa Resources Partners LP Common Unites Representing Limited Partnership Interests,"$15,001 - $50,000",Hon. Dwight Evans
+2021,HAE,Haemonetics Corporation,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,IFNNY,Infineon Technologies AG,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,"$1,001 - $15,000",Hon. Josh Gottheimer
+2021,DKNG,DraftKings Inc. - Class A,"$1,001 - $15,000",Hon. Alan S. Lowenthal
+2021,KTOS,"Kratos Defense & Security Solutions, Inc.","$1,001 - $15,000",Hon. Alan S. Lowenthal
+2021,KTOS,"Kratos Defense & Security Solutions, Inc.","$1,001 -",Hon. Alan S. Lowenthal
+2021,KTOS,"Kratos Defense & Security Solutions, Inc.","$1,001 -",Hon. Alan S. Lowenthal
+2021,SPCE,"Virgin Galactic Holdings, Inc.","$1,001 - $15,000",Hon. Alan S. Lowenthal
+2021,DKNG,DraftKings Inc. - Class A,"$1,001 -",Hon. Alan S. Lowenthal
+2021,--,MNTGRY CN MD 5.00% Go Due 10/01/2025,"$500,001 - $1,000,000",Hon. Suzan K. DelBene
+2021,BXS,BancorpSouth Bank,"$250,001 - $500,000","Hon. Neal Patrick MD, Facs Dunn"
+2021,BXS,BancorpSouth Bank,"$50,001 - $100,000","Hon. Neal Patrick MD, Facs Dunn"
+2021,BXS,BancorpSouth Bank,"$50,001 - $100,000","Hon. Neal Patrick MD, Facs Dunn"
+2021,ADDYY,Adidas Ag Sponsored ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,ADBE,Adobe Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,AAGIY,AIA Group Ltd Sponsored ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,APD,Air Products and Chemicals Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,BABA,Alibaba Group Holding Limited ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,GOOGL,Alphabet Inc Class A,"$1,001 - $15,000",Mr. Peter Meijer
+2021,AMZN,Amazon.com Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,BRK.B,Berkshire Hathaway Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,BPHSPX,S&P 500 Bullish Percent Index,"$15,001 - $50,000",Mr. Peter Meijer
+2021,CLX,Clorox Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,CMS,CMS Energy Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,DASTY,Dassult Systems SA ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,EW,Edwards Lifesciences Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,HUM,Humana Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,IFNNY,Infineon Technologies AG,"$1,001 - $15,000",Mr. Peter Meijer
+2021,IFNNY,Infineon Technologies AG,"$1,001 - $15,000",Mr. Peter Meijer
+2021,IFNNY,Infineon Technologies AG,"$1,001 - $15,000",Mr. Peter Meijer
+2021,LIN,Linde plc Ord Shares,"$1,001 - $15,000",Mr. Peter Meijer
+2021,LZAGY,Lonza Group Ag Zuerich Unsponsored ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MA,Mastercard Incorporated,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MRK,Merck & Company Inc CMN,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MRK,Merck & Company Inc CMN,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MSFT,Microsoft Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MCO,Moodys Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,MCO,Moodys Corporation,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NSRGY,Nestle SA Sponsored ADR rep Registered Shares Series B,"$1,001 - $15,000",Mr. Peter Meijer
+2021,NOC,Northrop Grumman Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,PG,Procter & Gamble Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,RTX,Raytheon Technologies Corp,"$1,001 - $15,000",Mr. Peter Meijer
+2021,RIO,Rio Tinto plc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,RHHBY,Roche Holdings AG Base ADR Shares,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SPGI,S&P Global Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SAP,SAP SE ADS,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SGSOY,SGS SA ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,SSMXY,Sysmex Corporation unsponsored ADR,"$1,001 - $15,000",Mr. Peter Meijer
+2021,TSM,Taiwan Semiconductor Mfg Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,TSM,Taiwan Semiconductor Mfg Company,"$1,001 - $15,000",Mr. Peter Meijer
+2021,TSLA,Tesla Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,VRTX,Vertex Pharmaceuticals Incorporated,"$1,001 - $15,000",Mr. Peter Meijer
+2021,V,Visa Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,V,Visa Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,V,Visa Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WMT,Walmart Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WMT,Walmart Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WEC,WEC Energy Group Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WEC,WEC Energy Group Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,WEC,WEC Energy Group Inc,"$1,001 - $15,000",Mr. Peter Meijer
+2021,CLYCT,Clay Cnty MO Public 3%,"$100,001 - $250,000",Hon. Vern Buchanan
+2021,D,Dominion Energy,"$1,001 - $15,000",Hon. Gerald E. Connolly
+2021,LDOS,"Leidos Holdings, Inc.","$1,001 - $15,000",Hon. Gerald E. Connolly
+2021,SAIC,Science Applications International Corporation,"$1,001 - $15,000",Hon. Gerald E. Connolly
+2021,TLRY,Tilray Inc - Class 2,"$15,001 - $50,000",Hon. Brian Mast
+2021,TLRY,Tilray Inc - Class 2,"$15,001 - $50,000",Hon. Brian Mast
+2021,TLRY,Tilray Inc - Class 2,"$50,001 - $100,000",Hon. Brian Mast
+2021,TMUBMUSD03M,US Treasury Bill 20 Due 12/3/20,"$15,001 - $50,000",Hon. Earl Blumenauer
+2021,SPCE,"Virgin Galactic Holdings, Inc.","$1,001 - $15,000",Hon. Alan S. Lowenthal
+2021,SPCE,"Virgin Galactic Holdings, Inc.","$1,001 -",Hon. Alan S. Lowenthal
+2021,GOOG,Alphabet - Google,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,AAPL,Apple,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,ARW,"Arrow Electronics, Inc.","$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,BAC,Bank of America Corporation,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,BRK.B,Berkshire Hathaway Inc. New,"$50,001 - $100,000",Hon. Christopher L. Jacobs
+2021,BIIB,Biogen Inc.,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,CCEP,Coca-Cola European Partners,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,CMP,Compass Minerals Intl Inc,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,COP,ConocoPhillips,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,ECL,Ecolab Inc.,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,F,Ford Motor Company,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,HD,Home Depot Inc.,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,HRL,Hormel Foods Corporation,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,IBM,International Business Machines,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,JNJ,Johnson & Johnson,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,LB,"L Brands, Inc.","$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,MTB,M&T Bank Corporation,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,MCD,McDonald's Corporation,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,MSI,"Motorola Solutions, Inc.","$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,PG,Proctor & Gamble Company,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,PRU,Prudential Financial,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,PSA,Public Storage,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,RSG,Republic Services,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,STT,State Street Corporation,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,TFC,Truist Financial Corporation,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,UNH,UnitedHealth Group Incorporated - Common Stock,"$15,001 - $50,000",Hon. Christopher L. Jacobs
+2021,VFC,V. F. Corporation,"$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,WMT,Walmart Inc.,"$15,001 - $50,000",Hon. Christopher L. Jacobs
+2021,WM,"Waste Management, Inc.","$1,001 - $15,000",Hon. Christopher L. Jacobs
+2021,PYPL,"PayPal Holdings, Inc.","$1,001 - $15,000",Hon. James R. Langevin
+2021,BABA,Alibaba Group Holding Limited ADR Shares ech representing 8 ord shares,"$1,001 - $15,000",None Ashley Hinson Arenholz
+2021,AMZN,Amazon.com Inc,"$15,001 - $50,000",None Ashley Hinson Arenholz
+2021,APPL,Apple Inc,"$1,001 - $15,000",None Ashley Hinson Arenholz
+2021,STZ,"Constellation Brands, Inc","$1,001 - $15,000",None Ashley Hinson Arenholz
+2021,GTN,Gray Television Inc,"$1,001 - $15,000",None Ashley Hinson Arenholz
+2021,MCS,Marcus Corporation,"$1,001 - $15,000",None Ashley Hinson Arenholz
+2021,QCHR,QCR Holdings Inc,"$1,001 - $15,000",None Ashley Hinson Arenholz
+2021,SHAK,Shake Shack Inc Class A,"$1,001 - $15,000",None Ashley Hinson Arenholz
+2021,TSLA,Tesla Inc,"$1,001 - $15,000",None Ashley Hinson Arenholz
+2021,HSIP,Transportation Insurance & Consultants Inc (d/b/a Elliot Hartman Agency),"$1,000,000 +",None Ashley Hinson Arenholz
+2021,AM,Antero Midstream Corporation,"$250,001 - $500,000",Hon. Mark Dr Green
+2021,AM,Antero Midstream Corporation,"$250,001 - $500,000",Hon. Mark Dr Green
+2021,ENLC,"EnLink Midstream, LLC Common Units representing Limited Partner Interests","$100,001 - $250,000",Hon. Mark Dr Green
+2021,NS,Nustar Energy L.P. Common Units,"$250,001 - $500,000",Hon. Mark Dr Green
+2021,PBFX,PBF Logistics LP Common Units representing limited partner interests,"$250,001 - $500,000",Hon. Mark Dr Green
+2021,USAC,"USA Compression Partners, LP Common Units Representing Limited Partner Interests","$50,001 - $100,000",Hon. Mark Dr Green
+2021,USDP,USD Partners LP Common Units representing limited partner interest,"$50,001 - $100,000",Hon. Mark Dr Green
+2021,GLD,SPDR Gold Trust,"$1,001 - $15,000",Hon. Alan S. Lowenthal
+2021,COHR,"Coherent, Inc. (Spouse retirement portfolio)","$1,001 - $15,000",Hon. Earl Blumenauer
+2021,FLEX,Flex Ltd. - Ordinary Shares (Spouse retirement portfolio),"$1,001 - $15,000",Hon. Earl Blumenauer
+2021,FLEX,Flex Ltd. - Ordinary Shares (Spouse retirement portfolio),"$1,001 - $15,000",Hon. Earl Blumenauer
+2021,KR,Kroger Company (Spouse retirement portfolio),"$1,001 - $15,000",Hon. Earl Blumenauer
+2021,VIAC,ViacomCBS Inc. - Class B (Spouse retirement portfolio),"$15,001 - $50,000",Hon. Earl Blumenauer
+2021,AMZN,Amazon.com Inc,"$1,001 - $15,000",Hon. Daniel Crenshaw
+2021,KMI,Kinder Morgan Inc,"$1,001 - $15,000",Hon. Daniel Crenshaw
+2021,SPXC,SPX Corporation,"$15,001 - $50,000",Hon. Daniel Crenshaw
+2021,BXS$A,BancorpSouth Bank 5.50% Series A,"$100,001 - $250,000","Hon. Neal Patrick MD, Facs Dunn"
+2021,ALXN,"Alexion Pharmaceuticals, Inc. (U.S. Trust Holdings)","$50,001 - $100,000",Hon. Gilbert Cisneros
+2021,ALXN,"Alexion Pharmaceuticals, Inc. (U.S. Trust Holdings)","$15,001 - $50,000",Hon. Gilbert Cisneros
+2021,BABA,Alibaba Group Holding Limited - 8 Ordinary Shares (U.S. Trust Holdings),"$50,001 - $100,000",Hon. Gilbert Cisneros
+2021,AMAT,"Applied Materials, Inc. (U.S. Trust Holdings)","$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,D,"Dominion Energy, Inc. (U.S. Trust Holdings)","$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,DNKN,"Dunkin' Brands Group, Inc. (U.S. Trust Holdings)","$50,001 - $100,000",Hon. Gilbert Cisneros
+2021,ICUI,"ICU Medical, Inc. (U.S. Trust Holdings)","$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,INTC,Intel Corp. (U.S. Trust Holdings),"$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,PHR,"Phreesia, Inc. (U.S. Trust Holdings)","$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,ROKU,"Roku, Inc. - Class A (U.S. Trust Holdings)","$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,SJCOG,SAN JOAQUIN CNTY CA TRANSN AUTH SALES TAX (U.S. Trust Holdings),"$250,001 - $500,000",Hon. Gilbert Cisneros
+2021,SITE,"SiteOne Landscape Supply, Inc. (U.S. Trust Holdings)","$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,USB,U. S. Bancorp (U.S. Trust Holdings),"$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,VCYT,"Veracyte, Inc. (U.S. Trust Holdings)","$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,VCYT,"Veracyte, Inc. (U.S. Trust Holdings)","$1,001 - $15,000",Hon. Gilbert Cisneros
+2021,ZBRA,Zebra Technologies Corporation,"$1,001 - $15,000",Hon. Susie Lee
+2021,SIRI,"Sirius XM Holdings, Inc.","$1,001 - $15,000",Hon. Susie Lee
+2021,ROP,"Roper Technologies, Inc.","$1,001 - $15,000",Hon. Susie Lee
+2021,RSG,"Republic Services, Inc.","$1,001 - $15,000",Hon. Susie Lee
+2021,PRAH,PRA Health Sciences,"$1,001 - $15,000",Hon. Susie Lee
+2021,LH,Laboratory Corporation of America Holdings,"$1,001 - $15,000",Hon. Susie Lee
+2021,INFO,IHS Markit Ltd. Common Shares,"$1,001 - $15,000",Hon. Susie Lee
+2021,CSGP,"CoStar Group, Inc.","$1,001 - $15,000",Hon. Susie Lee
+2021,CHTR,"Charter Communications, Inc. - Class A","$1,001 - $15,000",Hon. Susie Lee
+2021,BLL,Ball Corporation,"$1,001 - $15,000",Hon. Susie Lee
+2021,AME,"AMETEK, Inc.","$1,001 - $15,000",Hon. Susie Lee
+2021,ALOID,Pike Road AL OID,"$1,001 - $15,000",Hon. Mo Brooks
+2021,FCEL,"FuelCell Energy, Inc.","$15,001 - $50,000",Hon. Austin Scott
+2021,PLUG,"Plug Power, Inc.","$15,001 - $50,000",Hon. Austin Scott
+2021,KTOS,Kratos Defense & Security Solutions Inc,"$1,001 - $15,000",Hon. Alan S. Lowenthal
+2021,SPCE,Virgin Galactic Holdings Inc,"$1,001 - $15,000",Hon. Alan S. Lowenthal
+2021,CHD,"Church & Dwight Company, Inc.","$15,001 - $50,000",Hon. Richard W. Allen
+2021,MRK,"Merck & Company, Inc. Common Stock","$15,001 - $50,000",Hon. Richard W. Allen
+2021,WMT,Walmart Inc.,"$1,001 - $15,000",Hon. Michael John Gallagher
+2021,ADI,"Analog Devices, Inc [ST]","$50,001 - $100,000",None Sara Jacobs
+2021,ASML,ASML Holding N.V. - New York Registry Shares,"$15,001 - $50,000",None Sara Jacobs
+2021,FSLR,"First Solar, Inc","$1,001 - $15,000",None Sara Jacobs
+2021,PYPL,"Paypal Holdings, Inc.","$15,001 - $50,000",None Sara Jacobs
+2021,GOOG,Alphabet Inc. - Class C Capital Stock,"$15,001 - $50,000",Mrs. Marjorie Taylor Greene
+2021,GOOG,Alphabet Inc. - Class C Capital Stock,"$1,001 - $15,000",Mrs. Marjorie Taylor Greene
+2021,AMZN,"Amazon.com, Inc.","$1,001 - $15,000",Mrs. Marjorie Taylor Greene
+2021,AMZN,"Amazon.com, Inc.","$15,001 - $50,000",Mrs. Marjorie Taylor Greene
+2021,AAPL,Apple Inc.,"$15,001 - $50,000",Mrs. Marjorie Taylor Greene
+2021,AAPL,Apple Inc.,"$1,001 - $15,000",Mrs. Marjorie Taylor Greene
+2021,FB,"Facebook, Inc. - Class A","$1,001 - $15,000",Mrs. Marjorie Taylor Greene
+2021,FB,"Facebook, Inc. - Class A","$15,001 - $50,000",Mrs. Marjorie Taylor Greene
+2021,MJNA,"Medical Marijuana, Inc.","$1,001 - $15,000",Mrs. Marjorie Taylor Greene
+2021,COST,Costco Wholesale Corporation,"$1,001 - $15,000",Hon. John A. Yarmuth
+2021,ICE,Intercontinental Exchange Inc.,"$1,001 - $15,000",Hon. John A. Yarmuth
+2021,MA,Mastercard Incorporated,"$1,001 - $15,000",Hon. John A. Yarmuth
+2021,V,Visa Inc.,"$1,001 - $15,000",Hon. John A. Yarmuth
+2021,D,Sale of shares in Dominion Energy Inc.,"$15,001 - $50,000",Hon. Patrick T. McHenry
+2021,CHWY,"Chewy, Inc. Class A","$1,001 - $15,000",None Marie Newman
+2021,DOCU,"DocuSign, Inc.","$15,001 - $50,000",None Marie Newman
+2021,FDX,FedEx Corporation,"$1,001 - $15,000",None Marie Newman
+2021,GM,General Motors Company,"$1,001 - $15,000",None Marie Newman
+2021,MCD,McDonald's Corporation,"$15,001 - $50,000",None Marie Newman
+2021,MCD,McDonald's Corporation,"$15,001 - $50,000",None Marie Newman
+2021,MSFT,Microsoft Corporation,"$15,001 - $50,000",None Marie Newman
+2021,W,Wayfair Inc. Class A,"$1,001 - $15,000",None Marie Newman
+2021,W,Wayfair Inc. Class A,"$1,001 - $15,000",None Marie Newman
+2021,W,Wayfair Inc. Class A,"$15,001 - $50,000",None Marie Newman
+2021,ZOOM,"Zoom Technologies, Inc.","$1,001 - $15,000",None Marie Newman
+2021,ZOOM,"Zoom Technologies, Inc.","$1,001 - $15,000",None Marie Newman
+2021,BKEP,"Blueknight Energy Partners, L.P. LLC","$50,001 - $100,000",Hon. Mark Dr Green
+2021,BKEP,"Blueknight Energy Partners, L.P. LLC","$50,001 - $100,000",Hon. Mark Dr Green
+2021,NVDA,NVIDIA Corporation,"$1,001 - $15,000",Hon. Donald Sternoff Honorable Beyer
+2021,ARNC,Arconic Corp,"$1,001 - $15,000",Hon. Dean Phillips
+2021,CFG,Citizen Financial Group,"$1,001 - $15,000",Hon. Dean Phillips
+2021,HDS,HD Supply Holdings,"$1,001 - $15,000",Hon. Dean Phillips
+2021,HDS,HD Supply Holdings,"$1,001 - $15,000",Hon. Dean Phillips
+2021,HDS,HD Supply Holdings,"$1,001 - $15,000",Hon. Dean Phillips
+2021,HDS,HD Supply Holdings,"$1,001 - $15,000",Hon. Dean Phillips
+2021,TDG,Transdigm Corporation,"$1,001 - $15,000",Hon. Dean Phillips
+2021,VIAC,ViacomCBS Inc. - Class B,"$15,001 - $50,000",Hon. Debbie Dingell
+2021,ZUO,"Zuora, Inc. Class A","$15,001 - $50,000",Hon. Brian Mast
+2021,BHP,BHP Group Limited American Depositary Shares,"$1,001 - $15,000",Hon. Michael K. Simpson
+2021,EQNR,Equinor ASA,"$1,001 - $15,000",Hon. Michael K. Simpson
+2021,NCMGF,Newcrest Mining Ltd Ord Ordinary Shares,"$1,001 - $15,000",Hon. Michael K. Simpson
+2021,NEM,Newmont Corporation,"$1,001 - $15,000",Hon. Michael K. Simpson
+2021,WOLWF,Woolworths Ltd Ord Ordinary Shares,"$1,001 - $15,000",Hon. Michael K. Simpson
