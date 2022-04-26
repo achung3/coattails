@@ -6,7 +6,7 @@ Coattails is a dynamic tool for investment learning. The goal is to be resource 
 Coattails features include: User Profiles, Interactive Charts, Search queries, Informative Statements. Users view verified financial data in an easily digestible way, Users save this information and can later reference it. Users are informed for wiser decision making.
 
 
-# REPOSITORY DOCUMENTATION & DESCRIPTIONS
+### REPOSITORY DOCUMENTATION & DESCRIPTIONS
 CONTENT :
 
 1. Coattails.Bubble.io.Source.Code.html | contains Coattails web app source code extracted from the generated site as DOCUMENTATION | HTML language
